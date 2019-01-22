@@ -1,0 +1,6 @@
+com\atguigu\gmall\service\CartService.class
+com\atguigu\gmall\service\OrderService.class
+com\atguigu\gmall\service\ListService.class
+com\atguigu\gmall\service\UserInfoService.class
+com\atguigu\gmall\service\ManagerService.class
+com\atguigu\gmall\service\PaymentService.class

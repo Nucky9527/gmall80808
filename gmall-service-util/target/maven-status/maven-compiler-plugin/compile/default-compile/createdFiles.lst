@@ -1,0 +1,4 @@
+com\atguigu\gmall\config\ActiveMQConfig.class
+com\atguigu\gmall\config\RedisUtil.class
+com\atguigu\gmall\config\ActiveMQUtil.class
+com\atguigu\gmall\config\RedisConfig.class
